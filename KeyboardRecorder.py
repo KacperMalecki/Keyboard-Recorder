@@ -1,5 +1,7 @@
-// Copyright (c) Kacper Małecki
-// Licensed under the MIT License.
+"""
+Copyright (c) Kacper Małecki
+Licensed under the MIT License.
+"""
 
 import keyboard		#https://pypi.org/project/keyboard/
 import time
